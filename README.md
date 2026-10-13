@@ -1,8 +1,12 @@
 # Maintenance prédictive et Machine Learning explicable
 
+**Français** · [English](README.en.md)
+
 Prédire les pannes d'équipements industriels à partir de données de fonctionnement, et expliquer *pourquoi* le modèle les prédit — pas seulement *qu'il* les prédit.
 
 **Stack** — Python · Pandas · NumPy · scikit-learn · XGBoost · SHAP · Matplotlib · Seaborn
+
+**Rapport complet** — [PDF, 18 pages](rapport_maintenance_predictive.pdf) ([English version](predictive_maintenance_report_en.pdf))
 
 ---
 
